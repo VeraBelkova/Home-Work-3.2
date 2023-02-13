@@ -3,5 +3,5 @@
 // 782 -> 8
 // 918 -> 1
 
-int value = 456;
+int value = 782;
 Console.WriteLine((value % 100) / 10);
